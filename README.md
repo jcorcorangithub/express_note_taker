@@ -7,8 +7,8 @@ link to github repo:
 https://github.com/jcorcorangithub/express_note_taker
 
 
-link to video
-_________
+link to application:
+https://gentle-beyond-36422.herokuapp.com/
 
 ## Technologies
 JavaScript
